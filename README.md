@@ -18,8 +18,6 @@
   />
 </p>
 
-- 🌱 I’m currently learning **React JS**
-- 💬 Ask me about **JavaScript**
 - 📫 How to reach me **www.linkedin.com/in/sihan-hansaja-edward**
 - ⚡ Fun fact **I have Strong problem-solving skills and a passion for continuous learning**
 
