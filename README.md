@@ -45,15 +45,6 @@ I am a Computer Science Graduate, specializing in the convergence of Generative 
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edward-sihan&show_icons=true&theme=radical" alt="Sihan's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edward-sihan&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
----
-
 <p align="center">
   "Turning complex logic into seamless digital experiences."
 </p>
