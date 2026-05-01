@@ -30,8 +30,11 @@
 ### Tech
 
 **Frontend** — React, Next.js, Flutter, Avalonia, TailwindCSS, GSAP, Three.js
+
 **Backend** — FastAPI, .NET, Node.js
+
 **AI** — LangChain, LangGraph, RAG Pipelines
+
 **Infrastructure** — Redis, Pinecone, PostgreSQL, Docker, AWS
 
 ---
