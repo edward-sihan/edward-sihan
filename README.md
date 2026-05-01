@@ -22,8 +22,11 @@
 I am a Computer Science Graduate, specializing in the convergence of Generative AI and Enterprise-Grade Software Development. My expertise lies in architecting "intelligent" ecosystems that move beyond data display into active reasoning through multi-agent workflows and advanced semantic retrieval.
 
 - **AI Engineering:** Proven track record in implementing Corrective RAG (CRAG) and supervisor-agent architectures to solve complex data retrieval challenges.
+  
 - **Full-Stack & Backend:** Expert in crafting secure, production-ready APIs and scalable architectures using FastAPI, .NET, and Node.js.
+  
 - **Infrastructure:** Experienced in managing high-performance environments with Redis, Pinecone, and AWS S3 to support heavy document processing and vector generation.
+  
 - **Design Philosophy:** Committed to professional aesthetics and high-performance UI animations using GSAP, focusing on "digital tactility" and seamless user experiences.
 
 ---
