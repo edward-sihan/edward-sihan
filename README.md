@@ -29,7 +29,7 @@
 
 ### Tech
 
-**Frontend** — React, Next.js, Flutter, TailwindCSS, GSAP, Three.js
+**Frontend** — React, Next.js, Flutter, Avalonia, TailwindCSS, GSAP, Three.js
 
 **Backend** — FastAPI, .NET, Node.js
 
