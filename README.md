@@ -1,53 +1,44 @@
 # Hi, I'm Sihan Edward
 
 <p align="center">
-  <strong>Full-Stack Developer • AI Engineer • Backend Developer</strong>
+  AI Engineer • Full-Stack Developer • Backend Systems
 </p>
 
 <p align="center">
-  Building scalable backend systems, AI-powered applications, and modern web experiences.
+  Building scalable AI-powered applications and high-performance backend systems.
 </p>
 
 <p align="center">
-  <a href="mailto:hansajasihan2002@gmail.com">Email</a> •
+  <a href="https://github.com/edward-sihan">GitHub</a> •
   <a href="https://linkedin.com/in/sihan-edward">LinkedIn</a> •
-  <a href="https://github.com/edward-sihan">GitHub</a>
+  <a href="mailto:hansajasihan2002@gmail.com">Email</a>
 </p>
 
 ---
 
-## About Me
+### Focus Areas
 
-* Building AI systems with RAG pipelines, multi-agent workflows, and semantic search.
-* Developing scalable APIs using FastAPI, .NET, and Node.js.
-* Working with Redis, Pinecone, PostgreSQL, Docker, and cloud infrastructure.
-* Interested in performance-focused UI/UX and smooth frontend experiences.
+* RAG Systems & Multi-Agent AI
+* Scalable Backend Architecture
+* Semantic Search & Vector Databases
+* Modern Full-Stack Applications
+* Database Designs
+* System Engineering
 
 ---
 
-## Tech Stack
+### Tech
 
-### Frontend
+**Frontend** — React, Next.js, Flutter, TailwindCSS, GSAP, Three.js
 
-* React.js, Next.js, Flutter
-* TypeScript, JavaScript
-* Tailwind CSS, GSAP, Three.js
+**Backend** — FastAPI, .NET, Node.js
 
-### Backend & AI
+**AI** — LangChain, LangGraph, RAG Pipelines
 
-* Python (FastAPI, Flask)
-* C# (.NET, EF Core)
-* Node.js
-* LangChain, LangGraph, RAG Systems
-
-### Database & Infrastructure
-
-* PostgreSQL, MongoDB, Firebase, Supabase
-* Redis, Pinecone
-* Docker, AWS, GitHub Actions
+**Infrastructure** — Redis, Pinecone, PostgreSQL, NOSQL, Docker, AWS
 
 ---
 
 <p align="center">
-  <i>"Turning complex systems into seamless user experiences."</i>
+  <i>Building intelligent systems for real-world impact.</i>
 </p>
